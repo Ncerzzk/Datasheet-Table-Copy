@@ -15,7 +15,7 @@ Power input pin of CH1. Recommended to use a 10uF MLCC capacitor between VIN1 pi
 LX1
 Internal MOSFET switching output of CH1.  Connect LX1 pin with a low pass filter circuit to obtain a stable DC output voltage.
 12
-GND1 Power ground pin of CH1. 13 FB1 Feedback input of CH1.  Connect to output voltage with a resistor divider. 14 NC No connect. 15, 16 FB4 Feedback input of CH4.  Connect to output voltage with a resistor divider. 17 GND4 Power ground pin of CH4. 18
+GND1 Power ground pin of CH1. 13 FB1 Feedback input of CH1.  Connect to output voltage with a resistor divider. 14 NC No connect. 15 NC No connect. 16 FB4 Feedback input of CH4 Connect to output voltage with a resistor divider. 17 GND4 Power ground pin of CH4. 18
 LX4
 Internal MOSFET switching output of CH4.  Connect LX4 pin with a low pass filter circuit to obtain a stable DC output voltage.
 19
